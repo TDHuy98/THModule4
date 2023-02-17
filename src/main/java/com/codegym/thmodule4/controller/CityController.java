@@ -1,9 +1,9 @@
-package com.codegym.dethimodule4.controller;
+package com.codegym.thmodule4.controller;
 
-import com.codegym.dethimodule4.model.City;
-import com.codegym.dethimodule4.model.Country;
-import com.codegym.dethimodule4.service.ICityService;
-import com.codegym.dethimodule4.service.ICountryService;
+import com.codegym.thmodule4.model.City;
+import com.codegym.thmodule4.model.Country;
+import com.codegym.thmodule4.service.ICityService;
+import com.codegym.thmodule4.service.ICountryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;

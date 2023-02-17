@@ -1,6 +1,6 @@
-package com.codegym.dethimodule4.repository;
+package com.codegym.thmodule4.repository;
 
-import com.codegym.dethimodule4.model.Country;
+import com.codegym.thmodule4.model.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

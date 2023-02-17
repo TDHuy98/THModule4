@@ -1,7 +1,7 @@
-package com.codegym.dethimodule4.service;
+package com.codegym.thmodule4.service;
 
-import com.codegym.dethimodule4.model.City;
-import com.codegym.dethimodule4.repository.ICityRepository;
+import com.codegym.thmodule4.model.City;
+import com.codegym.thmodule4.repository.ICityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

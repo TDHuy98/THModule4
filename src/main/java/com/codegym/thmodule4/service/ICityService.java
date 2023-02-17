@@ -1,6 +1,6 @@
-package com.codegym.dethimodule4.service;
+package com.codegym.thmodule4.service;
 
-import com.codegym.dethimodule4.model.City;
+import com.codegym.thmodule4.model.City;
 
 public interface ICityService extends IGeneralService<City> {
     City findCityByName(String cityName);

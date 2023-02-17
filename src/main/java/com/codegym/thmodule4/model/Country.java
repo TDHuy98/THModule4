@@ -1,4 +1,4 @@
-package com.codegym.dethimodule4.model;
+package com.codegym.thmodule4.model;
 
 import lombok.Data;
 
